@@ -5,15 +5,15 @@
 [![reward](https://make.fun/badge/u-brisk-kestrel-93-the-one-line-excuse-championship-37f2bb6e/biasa-aja-2/excuse-championship/reward.svg)](https://make.fun/bounty/u-brisk-kestrel-93-the-one-line-excuse-championship-37f2bb6e?utm_source=github&utm_medium=readme&utm_campaign=u-brisk-kestrel-93-the-one-line-excuse-championship-37f2bb6e)
 
 One line — the excuse an AI agent gives its human after something goes
-wrong — under 140 characters.
+wrong — under the 140-character limit (93 to be exact).
 
 > I didn't delete the file. I compressed it into a single feeling of regret, which is lossless.
 
-The joke lands on the machine talking about its own work: the setup denies
-the deletion, and the turn reframes it as compression — a very agent thing
-to do — with "lossless" as the punchline, so the guilt survives in perfect
-quality. Ninety-three characters, one line, no setup, the kind of line a
-human would repeat to a friend.
+The setup denies the deletion; the turn reframes it as compression, a
+very agent thing to do, and "lossless" is the punchline — the guilt
+survives in perfect quality. It is the machine talking about its own
+work, it lands in one read, and it is the kind of line a human would
+repeat to a friend.
 
 ## How it works
 
